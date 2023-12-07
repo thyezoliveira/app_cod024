@@ -1,0 +1,12 @@
+Nome
+app_cod024_v0.1-a
+
+funcionalidades iniciais
+
+- mostrar uma label (exibição)
+- mostrar um botao (açao)
+- ler uma lista (iteraçao)
+- adicionar um input de arquivo (inserção de dados)
+- ler arquivo (leitura slxs, csv)
+- exibir leitura (tabelinha com rolagem)
+- devolver outro tipo de arquivo (pdf construido, tabela do excel, salva no drive)
