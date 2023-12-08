@@ -1,7 +1,7 @@
 Nome
-app_cod024_v0.1-a
+app_cod024_v0.1-a0
 
-funcionalidades iniciais
+Objetivos iniciais
 
 - mostrar uma label (exibição)
 - mostrar um botao (açao)
